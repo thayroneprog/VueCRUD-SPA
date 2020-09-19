@@ -4,7 +4,7 @@
 Projeto demo para estudos de front end e possíveis produtos utilizando o tema Futebol Americano.
 
 Demo:
-![CRUD-SPA](https://github.com/thayroneprog/grab/blob/master/CRUDSPA.gif)
+![CRUD-SPA](https://github.com/thayroneprog/grab/blob/master/crud.gif)
 
 
 ## Project setup
