@@ -1,5 +1,11 @@
-<<<<<<< HEAD
-# tigres
+
+# VUE CRUD-SPA(Single Page Aplication)
+
+Projeto demo para estudos de front end e possíveis produtos utilizando o tema Futebol Americano.
+
+Demo:
+![CRUD-SPA](https://github.com/thayroneprog/grab/blob/master/CRUDSPA.gif)
+
 
 ## Project setup
 ```
@@ -11,19 +17,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# VueCRUD-SPA
-Single Page Aplication simples para um CRUD em Vue.
->>>>>>> 7a207380922a910d470cddbe51d43d080a60e43f
